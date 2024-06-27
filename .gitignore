@@ -1,0 +1,14 @@
+# Ignore node_modules directory
+node_modules/
+
+# Ignore dist directory (build output)
+dist/
+
+# Ignore parcel cache
+.parcel-cache/
+
+# Ignore lock file for bun package manager
+bun.lockb
+
+# Ignore system files
+.DS_Store
