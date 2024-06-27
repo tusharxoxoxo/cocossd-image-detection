@@ -1,0 +1,45 @@
+body {
+  color: #fff;
+  background: #0f0b27;
+  font-family: monospace;
+}
+
+a {
+  color: #fff;
+}
+
+button {
+  cursor: pointer;
+}
+
+#uploaded-image, #webcam-section {
+  justify-content: space-between;
+  width: 90%;
+  height: 500px;
+  min-height: 400px;
+  display: grid;
+}
+
+#uploaded-image #input {
+  display: block;
+}
+
+#uploaded-image #predictions {
+  width: 50%;
+  display: block;
+}
+
+#loaded-image {
+  margin-top: 50px;
+}
+
+#webcam-section #input {
+  display: block;
+}
+
+#webcam-section #predictions {
+  width: 50%;
+  display: block;
+}
+
+/*# sourceMappingURL=index.1303bb05.css.map */
